@@ -1,0 +1,264 @@
+.nav.nav-tabs{
+	position: relative;
+	/*left: 40%;*/
+	padding-left: 15%;
+	background-color: rgb(0, 88, 160);
+	padding-top: 0.3%;	
+	padding-bottom: 0.1%;
+	border-bottom: none;
+}
+.header-service{
+	position: relative;
+	/*left: 40%;*/
+	background: linear-gradient(to right,rgb(1, 89, 161), rgb(0, 125, 191),rgb(1, 89, 161) );
+	padding-top: 0.1%;	
+	padding-bottom: 0.5%;
+	border-bottom: none;
+}
+.header-service-text{
+	color: #fff !important;
+	font-weight: bold !important;
+}
+.nav-tabs .item-title{
+	font-size: 30px;
+	padding-right: 19%;
+	font-weight: bold;
+	color: #fff;
+	padding-top: 2.4%;
+}
+.nav-tabs .item-title.long{
+	padding-right: 1.9%;
+}
+.nav-tabs > li > a:hover{
+	background-color: rgb(0, 88, 160) !important;
+	border: 1px solid rgb(0, 88, 160) !important;
+}
+.nav-tabs .tab-each{
+	/*padding-right: 4%;*/
+}
+#corperates{
+	background-image: url(../img/icon_Our_Service/bg_corperate.png);
+     background-repeat: no-repeat;
+    background-size: 100% 100%;
+	color: #000;
+
+}
+#smes{
+	background-image: url(../img/icon_Our_Service/bg_sme.png);
+     background-repeat: no-repeat;
+    background-size: 100% 100%;
+	color: #000;
+
+}
+#premiums{
+	background-image: url(../img/icon_Our_Service/bg_premium.png);
+     background-repeat: no-repeat;
+    background-size: 100% 100%;
+	color: #000;
+
+}
+/*Im a dummy coder, and I prefer to put 100% 100%, even if I can put only 100% */
+#nets{
+	background-image: url(../img/icon_Our_Service/bg_net.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: top right; 
+	color: #000;
+
+}
+#hots{
+	background-image: url(../img/icon_Our_Service/bg_hot.png);
+     background-repeat: no-repeat;
+    background-size: 50%;
+	color: #000;
+
+}
+#secs{
+	background-image: url(../img/icon_Our_Service/bg_sec.png);
+     background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: top right; 
+	color: #000;
+
+}
+#bridges{
+	background-image: url(../img/icon_Our_Service/bg_bridge.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: top right; 
+	color: #000;
+}
+#mplss{
+	background-image: url(../img/icon_Our_Service/bg_mpls.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: top left; 
+	color: #000;	
+}
+#iepls{
+	background-image: url(../img/icon_Our_Service/bg_iepl.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: top right; 
+	color: #000;
+}
+#directs{
+	background-image: url(../img/icon_Our_Service/bg_direct.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: 8px;
+	color: #000;	
+}
+#azure{
+	background-image: url(../img/icon_Our_Service/bg_azure.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: 600px 90px;
+	color: #000;
+}
+#vpss{
+	background-image: url(../img/icon_Our_Service/bg_vps.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: top right; 
+	color: #000;
+}
+#dcs{
+	background-image: url(../img/icon_Our_Service/bg_dc.png);
+    background-repeat: no-repeat;
+    background-size: 61%;
+    background-position: top left; 
+	color: #000;	
+}
+#ipss{
+	background-image: url(../img/icon_Our_Service/bg_ip.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: top right; 
+	color: #000;
+}
+#email{
+	background-image: url(../img/icon_Our_Service/bg_email.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 8px; 
+	color: #000;	
+}
+#hos{
+	background-image: url(../img/icon_Our_Service/bg_hos.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: 600px 70px;
+    color: #000;	
+}
+.must-float-right{
+	float: right !important;
+}
+.highlight{
+	max-width: 100%;
+	/*min-width: 100%;*/
+	background: linear-gradient(to right, rgba(184, 200, 213,0.7), #fff);
+	/*background-color: rgba(184, 200, 213,0.3);*/
+	padding: 1% 0 1% 6%;
+	height: 4%;
+	margin-bottom: 1%;
+}
+.cap-top-s{
+	font-size: 19px;
+/*font-transform: uppercase;*/
+text-transform: uppercase;
+font-weight: bold;
+color:rgb(7, 92, 170);
+}
+.cap-bottom-b{
+	font-size: 60px;
+text-transform: uppercase;
+font-weight: bold;
+color:rgb(7, 92, 170);
+
+}
+.b-auto{
+	width:30%;
+}
+.color-orange{
+	color: orange !important;
+	font-weight: bold;
+}
+.color-dred{
+	color: darkred !important;
+	font-weight: bold;
+}
+.color-dblue{
+	color: darkblue !important;
+	font-weight: bold;	
+}
+.h-100{
+	height:40rem;
+}
+.h-100-5{
+	height: 50rem;
+}
+.h-100-6{
+	height: 60rem;
+}
+.h-101{
+	height:70rem;
+}
+.pt-99{
+	margin-top: 3%;
+}
+.pt-100{
+	margin-top: 5%;
+}
+.pl-100{
+	margin-left: 10% !important;
+}
+.pl-100-5 {
+    margin-left: 5% !important;
+}
+.pl-plus-spp{
+	margin-left:27% !important;
+}
+.sub-main-blue{
+	font-weight: bold;
+	color:rgb(7, 92, 170);
+}
+.answer-part, .question-part{
+	border: 1px solid orange;
+	border-radius: 19px;
+	height: 400px;
+	width: 500px;
+	margin-left: 24%;
+    margin-bottom: 10%;
+	/*float: right;*/
+	/*position: relative;*/
+	/*display: block;*/
+}
+.q-h4,.a-h4, .q-img, .a-img{
+	display: inline;
+}
+.head-q{
+	margin-left: 15%;
+}
+.head-a{
+	/*float: right;*/
+	margin-left: 60%;
+}
+.content-slider{
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+.each-q{
+	background-color: transparent;
+	border: none;
+	text-align: left;
+	padding: 15px 0px 15px 15px;
+width: 500px;
+}	
+.each-q:hover{
+	background-color: rgb(0, 88, 160);
+	color: #fff;
+}
+ul.faq{
+	/*list-style-type: circle;*/
+}
